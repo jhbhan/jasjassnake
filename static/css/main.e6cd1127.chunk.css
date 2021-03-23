@@ -1,0 +1,2 @@
+.game-area{position:relative;margin:50px auto;width:700px;height:700px;border:2px solid #000}.snake-dot{background-image:url(/jasjassnake/static/media/jasMine.74ca6223.jpg);z-index:2}.snake-dot,.snake-food{position:absolute;width:10%;height:10%;background-size:cover;border:2px solid #fff}.snake-food{background-image:url(/jasjassnake/static/media/jason.09f0afb9.JPG);z-index:1}
+/*# sourceMappingURL=main.e6cd1127.chunk.css.map */

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jasjassnake/static/css/main.e6cd1127.chunk.css",
+    "main.js": "/jasjassnake/static/js/main.684778b0.chunk.js",
+    "main.js.map": "/jasjassnake/static/js/main.684778b0.chunk.js.map",
+    "runtime-main.js": "/jasjassnake/static/js/runtime-main.91a1c808.js",
+    "runtime-main.js.map": "/jasjassnake/static/js/runtime-main.91a1c808.js.map",
+    "static/js/2.18347e81.chunk.js": "/jasjassnake/static/js/2.18347e81.chunk.js",
+    "static/js/2.18347e81.chunk.js.map": "/jasjassnake/static/js/2.18347e81.chunk.js.map",
+    "static/js/3.7e31bacf.chunk.js": "/jasjassnake/static/js/3.7e31bacf.chunk.js",
+    "static/js/3.7e31bacf.chunk.js.map": "/jasjassnake/static/js/3.7e31bacf.chunk.js.map",
+    "index.html": "/jasjassnake/index.html",
+    "static/css/main.e6cd1127.chunk.css.map": "/jasjassnake/static/css/main.e6cd1127.chunk.css.map",
+    "static/js/2.18347e81.chunk.js.LICENSE.txt": "/jasjassnake/static/js/2.18347e81.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/jasjassnake/static/media/jason.09f0afb9.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91a1c808.js",
+    "static/js/2.18347e81.chunk.js",
+    "static/css/main.e6cd1127.chunk.css",
+    "static/js/main.684778b0.chunk.js"
+  ]
+}
