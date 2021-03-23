@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/jasjassnake/static/css/main.e6cd1127.chunk.css",
-    "main.js": "/jasjassnake/static/js/main.684778b0.chunk.js",
-    "main.js.map": "/jasjassnake/static/js/main.684778b0.chunk.js.map",
-    "runtime-main.js": "/jasjassnake/static/js/runtime-main.91a1c808.js",
-    "runtime-main.js.map": "/jasjassnake/static/js/runtime-main.91a1c808.js.map",
-    "static/js/2.18347e81.chunk.js": "/jasjassnake/static/js/2.18347e81.chunk.js",
-    "static/js/2.18347e81.chunk.js.map": "/jasjassnake/static/js/2.18347e81.chunk.js.map",
-    "static/js/3.7e31bacf.chunk.js": "/jasjassnake/static/js/3.7e31bacf.chunk.js",
-    "static/js/3.7e31bacf.chunk.js.map": "/jasjassnake/static/js/3.7e31bacf.chunk.js.map",
+    "main.css": "/jasjassnake/static/css/main.3c22fbe4.chunk.css",
+    "main.js": "/jasjassnake/static/js/main.42d49e21.chunk.js",
+    "main.js.map": "/jasjassnake/static/js/main.42d49e21.chunk.js.map",
+    "runtime-main.js": "/jasjassnake/static/js/runtime-main.92451115.js",
+    "runtime-main.js.map": "/jasjassnake/static/js/runtime-main.92451115.js.map",
+    "static/css/2.fa464204.chunk.css": "/jasjassnake/static/css/2.fa464204.chunk.css",
+    "static/js/2.3efafcee.chunk.js": "/jasjassnake/static/js/2.3efafcee.chunk.js",
+    "static/js/2.3efafcee.chunk.js.map": "/jasjassnake/static/js/2.3efafcee.chunk.js.map",
+    "static/js/3.d66ef831.chunk.js": "/jasjassnake/static/js/3.d66ef831.chunk.js",
+    "static/js/3.d66ef831.chunk.js.map": "/jasjassnake/static/js/3.d66ef831.chunk.js.map",
     "index.html": "/jasjassnake/index.html",
-    "static/css/main.e6cd1127.chunk.css.map": "/jasjassnake/static/css/main.e6cd1127.chunk.css.map",
-    "static/js/2.18347e81.chunk.js.LICENSE.txt": "/jasjassnake/static/js/2.18347e81.chunk.js.LICENSE.txt",
+    "static/css/2.fa464204.chunk.css.map": "/jasjassnake/static/css/2.fa464204.chunk.css.map",
+    "static/css/main.3c22fbe4.chunk.css.map": "/jasjassnake/static/css/main.3c22fbe4.chunk.css.map",
+    "static/js/2.3efafcee.chunk.js.LICENSE.txt": "/jasjassnake/static/js/2.3efafcee.chunk.js.LICENSE.txt",
     "static/media/index.css": "/jasjassnake/static/media/jason.09f0afb9.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.91a1c808.js",
-    "static/js/2.18347e81.chunk.js",
-    "static/css/main.e6cd1127.chunk.css",
-    "static/js/main.684778b0.chunk.js"
+    "static/js/runtime-main.92451115.js",
+    "static/css/2.fa464204.chunk.css",
+    "static/js/2.3efafcee.chunk.js",
+    "static/css/main.3c22fbe4.chunk.css",
+    "static/js/main.42d49e21.chunk.js"
   ]
 }
