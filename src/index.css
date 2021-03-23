@@ -10,8 +10,26 @@
     position: absolute;
     width: 2%;
     height: 2%;
-    /*background-image: url("./asset/jasMine.jpg");
-    background-size: cover; */
+    background-color: black;
+    border: 1px solid #fff;
+    z-index: 2;
+}
+.jasmine-dot {
+    position: absolute;
+    width: 2%;
+    height: 2%;
+    background-image: url("./asset/jasMine.jpg");
+    background-size: cover;
+    border: 1px solid #fff;
+    z-index: 2;
+}
+
+.jason-dot {
+    position: absolute;
+    width: 2%;
+    height: 2%;
+    background-image: url("./asset/jason.JPG");
+    background-size: cover;
     background-color: black;
     border: 1px solid #fff;
     z-index: 2;
@@ -22,8 +40,11 @@
     width: 2%;
     height: 2%;
     background-color: green;
-    /* background-image: url("./asset/jason.JPG");
-    background-size: cover; */
     border: 1px solid #fff;
     z-index: 1;
+}
+
+.initial_button {
+    width: 30%;
+    margin: 30px;
 }

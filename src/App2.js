@@ -1,6 +1,6 @@
 import React, {Component,useState,useEffect} from 'react'
-import Snake from './Snake';
-import Food from './Food';
+import Snake from './components/Snake';
+import Food from './components/Food';
 
 const getRandomCoordiates = () => {
   let min = 1;

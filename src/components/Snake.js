@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const Snake = ({snakeDots}) => {
+const Snake = ({snakeDots, pixelstyle}) => {
     return(
         <div>
             {snakeDots.map((dot,i) => {
@@ -10,7 +10,7 @@ const Snake = ({snakeDots}) => {
                     top: `${dot[1]}%`,
                 }
                 return(
-                    <div className="snake-dot" key={i} style={style}></div>
+                    <div className={pixelstyle} key={i} style={style}></div>
                 )
             })}
         </div>
