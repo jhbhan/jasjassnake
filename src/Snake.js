@@ -1,9 +1,10 @@
 import React from 'react';
 
-export default (props) =>{
+
+const Snake = ({snakeDots}) => {
     return(
         <div>
-            {props.snakeDots.map((dot,i) => {
+            {snakeDots.map((dot,i) => {
                 const style = {
                     left: `${dot[0]}%`,
                     top: `${dot[1]}%`,
@@ -15,3 +16,5 @@ export default (props) =>{
         </div>
     )
 }
+
+export default Snake

@@ -63,6 +63,18 @@ class App extends Component {
       case 39:
         if(this.state.direction !== 'LEFT')this.setState({direction:'RIGHT'});
         break;
+      case 83:
+        if(this.state.direction !== 'DOWN')this.setState({direction:'UP'});
+        break;
+      case 87:
+        if(this.state.direction !== 'UP')this.setState({direction:'DOWN'});
+        break;
+      case 68:
+        if(this.state.direction !== 'RIGHT')this.setState({direction:'LEFT'});
+        break;
+      case 65:
+        if(this.state.direction !== 'LEFT')this.setState({direction:'RIGHT'});
+        break;
     }
   }
 
